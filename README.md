@@ -22,24 +22,24 @@ The project uses the [CelebA dataset](https://www.cs.toronto.edu/~kriz/cifar.htm
    pip install -r requirements.txt
    python genderGuesser.py
 
-##Usage
+## Usage
 
 After installation, execute the script to start the gender prediction process. The script will process the CelebA dataset and output predictions.
 
-##Contributing
+## Contributing
 
 Contributions, issues, and feature requests are welcome. Feel free to check issues page if you want to contribute.
 
-##Author
+## Author
 
 Yusuf Erkam Köksal
 
-##Contact
+## Contact
 
 Email: yusuferkamkoksal@outlook.com
 GitHub: github.com/yerkamkoksal/
 
-##License
+## License
 
 This project is open source and available under the MIT License.
 
